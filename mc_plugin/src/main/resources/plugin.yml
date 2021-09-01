@@ -1,0 +1,4 @@
+name: MCPlugin
+main: com.eedashfans.mc.MCPlugin
+author: Yuan Gao
+version: 1.0
